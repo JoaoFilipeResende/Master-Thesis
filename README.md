@@ -22,13 +22,15 @@ a) BMS; b) Battery; c) External Connection; d) SBC; e) Storage; f) Camera; g) Op
 
 ### Hardware
 
+<p align="center"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/PCB_BMS_front.jpg" height="300"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/PCB_BMS_back.jpg" height="300"> </p>
+
 ### Software
 
 ### Experimental Results
 
 
 
-<p align="center"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/tank_test.jpg" width="300" height="300"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/tank_test.gif" width="300" height="300"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/Results/artemia_lab_exp.png" width="300" height="300"> </p>
+<p align="center"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/tank_test.jpg" height="300"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/tank_test.gif" height="300"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/Results/artemia_lab_exp.png" height="300"> </p>
 
 
 <p align="center">
