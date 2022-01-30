@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PowerBoard)(type Legacy)(uri ${KIPRJMOD}/PowerBoard.lib)(options "")(descr ""))
+)
