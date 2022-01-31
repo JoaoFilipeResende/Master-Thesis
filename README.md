@@ -22,7 +22,7 @@ a) BMS; b) Battery; c) External Connection; d) SBC; e) Storage; f) Camera; g) Op
 
 ### Hardware
 
-<p align="center"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/PCB_BMS_front.jpg" height="300"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/PCB_BMS_back.jpg" height="300"> </p>
+<p align="center"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/PowerBoard.gif" height="300"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/PCB_BMS_front.jpg" height="300"> <img src="https://github.com/JoaoFilipeResende/Master-Thesis/blob/main/Pictures/PCB_BMS_back.jpg" height="300"> </p>
 
 ### Software
 
